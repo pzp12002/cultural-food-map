@@ -1,0 +1,388 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-24T08:34:59.901Z",
+  "reviews": [
+    {
+      "id": "curated-nangu-beidao",
+      "shopId": "nangu-beidao-dayuecheng",
+      "author": "微派探店",
+      "rating": 4.5,
+      "content": "味道还行，吃腻了食堂过去换换口味。",
+      "photos": [
+        "/images/nangu-beidao.jpg"
+      ],
+      "createdAt": "2026-08-17T07:00:00.000Z",
+      "isLocal": true
+    },
+    {
+      "id": "curated-loushiming",
+      "shopId": "loushiming-banqian-bbq",
+      "author": "微派探店",
+      "rating": 4.3,
+      "content": "味道可以，米饭很香，特别是加上那个三分熟的蛋，但是肉的口感和质量不行。",
+      "photos": [
+        "/images/loushiming-01.jpg",
+        "/images/loushiming-02.jpg",
+        "/images/loushiming-03.jpg"
+      ],
+      "createdAt": "2026-08-17T07:01:00.000Z",
+      "isLocal": true
+    },
+    {
+      "id": "curated-po-bbq",
+      "shopId": "po-bbq-guanggu-center",
+      "author": "微派探店",
+      "rating": 4.7,
+      "content": "我爱吃辣的，这个就是很辣的，推荐爱辣的去吃，特别是臭豆腐烧鸡爪。",
+      "photos": [
+        "/images/po-bbq.jpg"
+      ],
+      "createdAt": "2026-08-17T07:02:00.000Z",
+      "isLocal": true
+    },
+    {
+      "id": "curated-xiaojiao-pork-rice",
+      "shopId": "xiaojiao-wanwan-pork-rice",
+      "author": "微派探店",
+      "rating": 4.9,
+      "content": "夯爆了，分量又大，味道也还行，经常吃撑还没吃完。",
+      "photos": [
+        "/images/xiaojiao-pork-rice.jpg"
+      ],
+      "createdAt": "2026-08-17T07:03:00.000Z",
+      "isLocal": true
+    },
+    {
+      "id": "curated-xibei-lamb-bbq",
+      "shopId": "xibei-tanyang-bbq-dayuecheng",
+      "author": "微派探店",
+      "rating": 4.5,
+      "content": "味道还好，没有什么羊肉的膻味。",
+      "photos": [
+        "/images/xibei-lamb-bbq.jpg"
+      ],
+      "createdAt": "2026-08-17T07:04:00.000Z",
+      "isLocal": true
+    },
+    {
+      "id": "curated-huopu-hotpot",
+      "shopId": "huopu-jiaoma-hotpot",
+      "author": "微派探店",
+      "rating": 3.5,
+      "content": "我只吃出了麻味，但是我更爱吃纯辣的，所以不好意思了。",
+      "photos": [
+        "/images/huopu-hotpot.jpg"
+      ],
+      "createdAt": "2026-08-17T07:05:00.000Z",
+      "isLocal": true
+    },
+    {
+      "id": "39e9be0e-346b-4d85-a28e-68ad4efd5127",
+      "shopId": "amap-B0LUAUJ6ED",
+      "author": "老王",
+      "rating": 4.6,
+      "content": "牛骨原汤锅很鲜，不蘸沙茶酱也好吃；自助区有免费西瓜、冰粉、小菜，性价比不错。店员会主动提醒涮肉时间，服务贴心，老人小孩都适合吃，不嗜辣的友好。",
+      "photos": [
+        "/uploads/323c8f16-3503-41ac-aa9b-765544409a94.webp"
+      ],
+      "createdAt": "2026-08-18T07:31:58.624Z",
+      "isLocal": true
+    },
+    {
+      "id": "fabccf2f-7e40-4ee6-9a61-2812e7fa8f9c",
+      "shopId": "amap-B0LKCZ1CO9",
+      "author": "老王",
+      "rating": 4.5,
+      "content": "汤底是螺蛳加筒骨现熬的，喝得出来不是速食调料包。酸笋味很正，炸蛋吸饱汤汁以后特别香，米粉还能无限续，性价比挺高的。",
+      "photos": [
+        "/uploads/d2ad7eee-4b1e-44f6-af78-35008b16efd0.webp"
+      ],
+      "createdAt": "2026-08-18T07:38:52.588Z",
+      "isLocal": true
+    },
+    {
+      "id": "curated-nantang-yuecai-20260818",
+      "shopId": "nantang-yuecai-dayuecheng",
+      "author": "老王",
+      "rating": 4.5,
+      "content": "环境挺舒服的，中式装修看着很雅致，还有独立包间，聊天吃饭都比较自在，就是价格确实有点贵。",
+      "photos": [
+        "/uploads/nantang-yuecai-01.jpg",
+        "/uploads/nantang-yuecai-02.jpg",
+        "/uploads/nantang-yuecai-03.jpg"
+      ],
+      "createdAt": "2026-08-18T07:39:57.000Z",
+      "isLocal": true
+    },
+    {
+      "id": "curated-xiaofunan-hunan-20260818",
+      "shopId": "xiaofunan-hunan-dayuecheng",
+      "author": "老王",
+      "rating": 4.5,
+      "content": "店里走的是古风江南风，环境干净又舒服。湘菜做得很地道，小炒黄牛肉鲜嫩多汁，擂辣椒皮蛋和剁椒鱼头也特别下饭，米饭都能多炫两碗。",
+      "photos": [
+        "/uploads/xiaofunan-hunan.jpg"
+      ],
+      "createdAt": "2026-08-18T07:39:59.000Z",
+      "isLocal": true
+    },
+    {
+      "id": "ab674ad7-1eb1-43a1-9b6e-cc9de3475f2b",
+      "shopId": "amap-B0KG35P3L7",
+      "author": "老王",
+      "rating": 4.5,
+      "content": "蛙和鱼头的比例可以自己搭，配菜放进红油锅里煮得特别入味，冰粉拿来解辣也刚好，重口味的应该会很喜欢。不过锅底默认真的挺辣，建议直接点微辣。",
+      "photos": [
+        "/uploads/f060c836-bdf4-461c-ba14-0be09c5634f7.webp"
+      ],
+      "createdAt": "2026-08-18T08:44:24.365Z",
+      "isLocal": true
+    }
+  ],
+  "savedShops": [
+    {
+      "id": "nangu-beidao-dayuecheng",
+      "source": "curated",
+      "name": "南谷北稻(大悦城店)",
+      "category": "中餐厅",
+      "longitude": 114.498432,
+      "latitude": 30.48685,
+      "address": "高新大道718号武汉大悦城L1层",
+      "summary": "武汉大悦城 L1 层中餐门店，收录微派同事实拍与到店评价。",
+      "signatureDishes": [],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 19,
+      "telephone": "18372661656",
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/85950e11b9a8a50cd301219a1a918c2b",
+        "https://store.is.autonavi.com/showpic/19e2082ae568d6d53e83cd49e14006d7"
+      ],
+      "amapId": "B0MASKFP05",
+      "sourceRating": 3.8,
+      "floorLevel": 1,
+      "floorLabel": "L1",
+      "distanceMeters": 223
+    },
+    {
+      "id": "po-bbq-guanggu-center",
+      "source": "curated",
+      "name": "一家破烧烤(光谷中心城店)",
+      "category": "烧烤",
+      "longitude": 114.50888,
+      "latitude": 30.4853,
+      "address": "神墩一路龙湖新壹城A4号(中心城夜市对面)",
+      "summary": "位于光谷中心城夜市周边，收录微派同事实拍与到店评价。",
+      "signatureDishes": [
+        "臭豆腐烧鸡爪"
+      ],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 76,
+      "telephone": "17720531651 / 18466673024",
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/5dab691f519072280000002478726010?type=pic",
+        "https://aos-comment.amap.com/B0LRM6WPBF/comment/283128AA_59EE_4CAA_B193_528E6F2AC9E0_L0_001_1512_201_1773105946664_21914716.jpg",
+        "https://aos-comment.amap.com/comment/content_service__1770187745980_30159335_1770187756801_17153466.jpg"
+      ],
+      "amapId": "B0LRM6WPBF",
+      "sourceRating": 4.6,
+      "floorLevel": 0,
+      "floorLabel": "室外",
+      "distanceMeters": 959
+    },
+    {
+      "id": "xibei-tanyang-bbq-dayuecheng",
+      "source": "curated",
+      "name": "西北滩羊烧烤(武汉大悦城店)",
+      "category": "烧烤",
+      "longitude": 114.498201,
+      "latitude": 30.485552,
+      "address": "高新大道716号大悦城夜市",
+      "summary": "位于武汉大悦城夜市，收录微派同事实拍与到店评价。",
+      "signatureDishes": [
+        "滩羊烧烤"
+      ],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 42,
+      "telephone": "15926905969",
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/a91aba538cd8cae30000003767642998?type=pic",
+        "https://aos-comment.amap.com/B0LUM7EVIZ/comment/20260204-09bac043d45d82465144e220-7EaShcdPsW65b5Y7UtULG.jpg",
+        "https://aos-comment.amap.com/B0LUM7EVIZ/comment/20260204-09bac043d45d82465144e220-m9h1Gxc6W781JRsxO1CU4.jpg"
+      ],
+      "amapId": "B0LUM7EVIZ",
+      "sourceRating": 4.3,
+      "floorLevel": 0,
+      "floorLabel": "室外",
+      "distanceMeters": 363
+    },
+    {
+      "id": "huopu-jiaoma-hotpot",
+      "source": "curated",
+      "name": "火瀑椒麻火锅",
+      "category": "火锅",
+      "longitude": 114.498718,
+      "latitude": 30.487322,
+      "address": "高新大道718号武汉大悦城L4层",
+      "summary": "位于武汉大悦城 L4 层，收录微派同事实拍与到店评价。",
+      "signatureDishes": [
+        "椒麻火锅"
+      ],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 95,
+      "telephone": "027-65279277",
+      "gallery": [
+        "https://store.is.autonavi.com/query_pic?id=st4b81c93a-3672-407e-94d5-1b35e52dfc64&user=search&operate=original",
+        "https://store.is.autonavi.com/showpic/f521918217b02e6966a388e897e8e7a0",
+        "https://store.is.autonavi.com/showpic/c94879817ea9086f64d39d8ff83455db"
+      ],
+      "amapId": "B0I65CC3HY",
+      "sourceRating": 4.4,
+      "floorLevel": 4,
+      "floorLabel": "L4",
+      "distanceMeters": 164
+    },
+    {
+      "id": "xiaojiao-wanwan-pork-rice",
+      "source": "curated",
+      "name": "小脚弯弯猪脚饭",
+      "category": "猪脚饭",
+      "longitude": 114.498525,
+      "latitude": 30.486675,
+      "address": "高新大道718号武汉大悦城商务项目1期第2号商业、4号办公/单元1层商号房",
+      "summary": "对应高德“小猪弯弯猪脚饭(武汉大悦城店)”位置，收录微派同事实拍与到店评价。",
+      "signatureDishes": [
+        "猪脚饭"
+      ],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 16,
+      "telephone": "15827184880",
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/c5e2249af5a0beea0000001099154015?type=pic",
+        "https://store.is.autonavi.com/showpic/f751f92dcacaa51a0000001099124385?type=pic",
+        "https://store.is.autonavi.com/showpic/9b91850a545013f10000000733606916?type=pic"
+      ],
+      "amapId": "B0KDNNQ5UL",
+      "sourceRating": 3.9,
+      "floorLevel": 1,
+      "floorLabel": "L1",
+      "distanceMeters": 236
+    },
+    {
+      "id": "amap-B0LKCZ1CO9",
+      "source": "amap",
+      "amapId": "B0LKCZ1CO9",
+      "name": "迎福记螺蛳粉火锅(大悦城店)",
+      "category": "火锅店",
+      "longitude": 114.499275,
+      "latitude": 30.486725,
+      "address": "九峰街道神墩一路大悦城悦街2-107号铺(大悦城3号门对面)",
+      "summary": "距微派约 208 米，高德地图分类为火锅店。",
+      "signatureDishes": [],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 33,
+      "sourceRating": 4,
+      "distanceMeters": 208,
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/df0fe32413c340d72958cf35b5e3b1f1",
+        "https://aos-comment.amap.com/B0LKCZ1CO9/comment/content_media_external_images_media_1000229538_ss__1767022995201_75042546.jpg",
+        "https://aos-comment.amap.com/B0LKCZ1CO9/comment/content_media_external_images_media_1000229540_ss__1767022995195_77633886.jpg"
+      ]
+    },
+    {
+      "id": "amap-B0LUAUJ6ED",
+      "source": "amap",
+      "amapId": "B0LUAUJ6ED",
+      "name": "潮牛壹号鲜牛肉火锅(大悦城店)",
+      "category": "中餐厅",
+      "longitude": 114.497765,
+      "latitude": 30.487996,
+      "address": "高新大道718号武汉大悦城L4层",
+      "summary": "距微派约 189 米，高德地图分类为中餐厅。",
+      "signatureDishes": [],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 99,
+      "sourceRating": 4.4,
+      "distanceMeters": 189,
+      "telephone": "17786542841",
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/9ef906a5a697603c0000000753232690?type=pic",
+        "https://store.is.autonavi.com/showpic/4b2f15a647ab828c0000003313008245?type=pic",
+        "https://store.is.autonavi.com/showpic/c0fead63d22b916e0000000734836358?type=pic"
+      ]
+    },
+    {
+      "id": "nantang-yuecai-dayuecheng",
+      "source": "curated",
+      "amapId": "B0I65CC3HX",
+      "name": "南棠馆粤菜坊(大悦城店)",
+      "category": "中餐厅·粤菜",
+      "longitude": 114.497698,
+      "latitude": 30.488652,
+      "address": "高新大道718号武汉大悦城L4层",
+      "summary": "位于武汉大悦城，收录微派同事实拍与到店评价。",
+      "signatureDishes": [],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 101,
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/f7678b943ae666620000003000072430?type=pic",
+        "https://store.is.autonavi.com/showpic/0cef5467a44917c80000003000084898",
+        "https://store.is.autonavi.com/showpic/418db5a3d669c69d0000003767812479?type=pic"
+      ],
+      "sourceRating": 4.6,
+      "distanceMeters": 185,
+      "telephone": "027-87001440;13018007616",
+      "floorLevel": 4,
+      "floorLabel": "L4"
+    },
+    {
+      "id": "xiaofunan-hunan-dayuecheng",
+      "source": "curated",
+      "amapId": "B0ID6MWZM4",
+      "name": "晓芙南・湖南菜(大悦城店)",
+      "category": "中餐厅·湖南菜",
+      "longitude": 114.498105,
+      "latitude": 30.488353,
+      "address": "高新大道718号武汉大悦城L4层",
+      "summary": "位于武汉大悦城，收录微派同事实拍与到店评价。",
+      "signatureDishes": [
+        "小炒黄牛肉",
+        "擂辣椒皮蛋",
+        "剁椒鱼头"
+      ],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 81,
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/32e43e2f39037118ebc7d152d86efec9",
+        "https://store.is.autonavi.com/showpic/18bbe82d9ff044b266d174bc8ae8084b",
+        "https://store.is.autonavi.com/showpic/44ba70626bcd2b25b99ebbd0bf1ae377"
+      ],
+      "sourceRating": 4.4,
+      "distanceMeters": 148,
+      "telephone": "027-63497177;18271490702",
+      "floorLevel": 4,
+      "floorLabel": "L4"
+    },
+    {
+      "id": "amap-B0KG35P3L7",
+      "source": "amap",
+      "amapId": "B0KG35P3L7",
+      "name": "蛙老爹美蛙鱼·火锅(大悦城)",
+      "category": "火锅店",
+      "longitude": 114.499178,
+      "latitude": 30.486521,
+      "address": "高新大道718号武汉大悦城L1层",
+      "summary": "距微派约 232 米，高德地图分类为火锅店。",
+      "signatureDishes": [],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 51,
+      "sourceRating": 4.5,
+      "distanceMeters": 232,
+      "telephone": "13297977863",
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/cd75889973bcae7a5c3d8319fb36a373",
+        "https://store.is.autonavi.com/showpic/d907900eb25d2ca60000002346370048?type=pic",
+        "https://store.is.autonavi.com/showpic/0c1de19028ba614bba7220912a80c2ba"
+      ]
+    }
+  ]
+}

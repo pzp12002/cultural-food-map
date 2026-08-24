@@ -233,7 +233,18 @@ async function deleteReview(reviewId: string) {
     }
     showToast('评价已删除，相关上传照片已移入本地回收目录。')
   } catch (error) {
-    showToast(error instanceof Error ? error.message : '评价删除失败。')
+    const message = error instanceof Error ? error.message : '本地数据文件写入失败。'
+    try {
+      saveLocalReviews(nextReviews)
+      localReviews.value = nextReviews
+      if (editingReviewId.value === reviewId) {
+        editingReviewId.value = null
+        reviewShopId.value = null
+      }
+      showToast(`评价已从当前浏览器删除，但${message}`)
+    } catch (backupError) {
+      showToast(backupError instanceof Error ? backupError.message : '评价删除失败。')
+    }
   }
 }
 

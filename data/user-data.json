@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24T08:34:59.901Z",
+  "updatedAt": "2026-08-27T01:29:13.979Z",
   "reviews": [
     {
       "id": "curated-nangu-beidao",
@@ -137,6 +137,42 @@
       ],
       "createdAt": "2026-08-18T08:44:24.365Z",
       "isLocal": true
+    },
+    {
+      "id": "23acd3f4-a6a9-4839-bc38-46f7f9e046c5",
+      "shopId": "amap-B0MG2530JS",
+      "author": "老宋",
+      "rating": 4.5,
+      "content": "感觉能跟肥肥虾庄打一打，性价比不错，蒜蓉虾好吃到爆，酱汁拌凉面吃绝了。给到夯。",
+      "photos": [
+        "/uploads/a8b9c54a-0a32-4f81-a876-4ce95d24001f.webp"
+      ],
+      "createdAt": "2026-08-27T01:27:19.311Z",
+      "isLocal": true
+    },
+    {
+      "id": "4034cc08-9aa9-41d4-8f6b-55aa785e6895",
+      "shopId": "amap-B0LUKOQQ8A",
+      "author": "老宋",
+      "rating": 4.7,
+      "content": "大牛骨头火锅分量很足，牛肉汤泡烧饼简直好吃得不得了，价格也相当实惠。",
+      "photos": [
+        "/uploads/809c060b-f489-4133-be1c-b9e19ca8c06a.webp"
+      ],
+      "createdAt": "2026-08-27T01:28:13.002Z",
+      "isLocal": true
+    },
+    {
+      "id": "9d43717b-4157-46f4-8601-fb81e6ff8bec",
+      "shopId": "xiaojiao-wanwan-pork-rice",
+      "author": "老宋",
+      "rating": 4.9,
+      "content": "量大管饱，冰凉绿豆汤还能免费续，吃了还想吃，每次都是撑着走出去的。给到夯，大悦城地下美食街直接拉完了。",
+      "photos": [
+        "/uploads/aa40ec9a-9f15-4ac1-a26f-a2cc52a5e4ae.webp"
+      ],
+      "createdAt": "2026-08-27T01:29:13.976Z",
+      "isLocal": true
     }
   ],
   "savedShops": [
@@ -268,27 +304,6 @@
       "distanceMeters": 236
     },
     {
-      "id": "amap-B0LKCZ1CO9",
-      "source": "amap",
-      "amapId": "B0LKCZ1CO9",
-      "name": "迎福记螺蛳粉火锅(大悦城店)",
-      "category": "火锅店",
-      "longitude": 114.499275,
-      "latitude": 30.486725,
-      "address": "九峰街道神墩一路大悦城悦街2-107号铺(大悦城3号门对面)",
-      "summary": "距微派约 208 米，高德地图分类为火锅店。",
-      "signatureDishes": [],
-      "businessHours": "以店铺实际营业时间为准",
-      "averagePrice": 33,
-      "sourceRating": 4,
-      "distanceMeters": 208,
-      "gallery": [
-        "https://store.is.autonavi.com/showpic/df0fe32413c340d72958cf35b5e3b1f1",
-        "https://aos-comment.amap.com/B0LKCZ1CO9/comment/content_media_external_images_media_1000229538_ss__1767022995201_75042546.jpg",
-        "https://aos-comment.amap.com/B0LKCZ1CO9/comment/content_media_external_images_media_1000229540_ss__1767022995195_77633886.jpg"
-      ]
-    },
-    {
       "id": "amap-B0LUAUJ6ED",
       "source": "amap",
       "amapId": "B0LUAUJ6ED",
@@ -308,6 +323,27 @@
         "https://store.is.autonavi.com/showpic/9ef906a5a697603c0000000753232690?type=pic",
         "https://store.is.autonavi.com/showpic/4b2f15a647ab828c0000003313008245?type=pic",
         "https://store.is.autonavi.com/showpic/c0fead63d22b916e0000000734836358?type=pic"
+      ]
+    },
+    {
+      "id": "amap-B0LKCZ1CO9",
+      "source": "amap",
+      "amapId": "B0LKCZ1CO9",
+      "name": "迎福记螺蛳粉火锅(大悦城店)",
+      "category": "火锅店",
+      "longitude": 114.499275,
+      "latitude": 30.486725,
+      "address": "九峰街道神墩一路大悦城悦街2-107号铺(大悦城3号门对面)",
+      "summary": "距微派约 208 米，高德地图分类为火锅店。",
+      "signatureDishes": [],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 33,
+      "sourceRating": 4,
+      "distanceMeters": 208,
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/df0fe32413c340d72958cf35b5e3b1f1",
+        "https://aos-comment.amap.com/B0LKCZ1CO9/comment/content_media_external_images_media_1000229538_ss__1767022995201_75042546.jpg",
+        "https://aos-comment.amap.com/B0LKCZ1CO9/comment/content_media_external_images_media_1000229540_ss__1767022995195_77633886.jpg"
       ]
     },
     {
@@ -382,6 +418,50 @@
         "https://store.is.autonavi.com/showpic/cd75889973bcae7a5c3d8319fb36a373",
         "https://store.is.autonavi.com/showpic/d907900eb25d2ca60000002346370048?type=pic",
         "https://store.is.autonavi.com/showpic/0c1de19028ba614bba7220912a80c2ba"
+      ]
+    },
+    {
+      "id": "amap-B0MG2530JS",
+      "source": "amap",
+      "amapId": "B0MG2530JS",
+      "name": "龙虾殿(武汉光谷首店)",
+      "category": "中餐厅",
+      "longitude": 114.40977,
+      "latitude": 30.501164,
+      "address": "光谷世界城三期德国风情街8号楼2层829(原龙虾殿正大门对面二楼)",
+      "summary": "距微派约 8.7 公里，高德地图分类为中餐厅。",
+      "signatureDishes": [],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 118,
+      "sourceRating": 4.7,
+      "distanceMeters": 8722,
+      "telephone": "18971417172",
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/aab4872d4f901b100000002325396223?type=pic",
+        "https://store.is.autonavi.com/showpic/b13959aca72af7900000001004010772?type=pic",
+        "https://store.is.autonavi.com/showpic/bd792ada1a2952330000002247982224?type=pic"
+      ]
+    },
+    {
+      "id": "amap-B0LUKOQQ8A",
+      "source": "amap",
+      "amapId": "B0LUKOQQ8A",
+      "name": "牛娘舅·牛肉汤馆",
+      "category": "餐饮相关",
+      "longitude": 114.509412,
+      "latitude": 30.486237,
+      "address": "飞霞路奥山创意街7栋",
+      "summary": "距微派约 973 米，高德地图分类为餐饮相关。",
+      "signatureDishes": [],
+      "businessHours": "以店铺实际营业时间为准",
+      "averagePrice": 49,
+      "sourceRating": 4.5,
+      "distanceMeters": 973,
+      "telephone": "18327275220",
+      "gallery": [
+        "https://store.is.autonavi.com/showpic/c6006f6d36e98a8b0000003896158405?type=pic",
+        "https://store.is.autonavi.com/showpic/7eab57f0fc1266c90000002831856575?type=pic",
+        "https://store.is.autonavi.com/showpic/0c92c994997cf5b80000003037384511?type=pic"
       ]
     }
   ]
